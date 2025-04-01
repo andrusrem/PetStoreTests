@@ -1,0 +1,23 @@
+{
+  "name": "petstoretests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrusrem/PetStoreTests.git"
+  },
+  "author": "andrusrem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrusrem/PetStoreTests/issues"
+  },
+  "homepage": "https://github.com/andrusrem/PetStoreTests#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  }
+}
